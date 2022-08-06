@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+In this assignment, students are expected to use their knowledge of different data types such as strings, integers, arrays, and booleans to assign different variables their respective values. Students then console log a story which uses the different data types as different elements of the story, such as an integer value for the year or a string value for the names of the characters.

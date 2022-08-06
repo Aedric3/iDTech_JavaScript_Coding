@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+In this project, students create a feature of the game PacMan, which displays PacMan moving across the screen and back. Students first use their knowledge about scheduling to create a setInterval() loop to call a function that makes PacMan change position every 200 milliseconds. We then use a conditional statement inside of a function to make sure PacMan starts moving in the other direction once he hits the edge of the window. 
